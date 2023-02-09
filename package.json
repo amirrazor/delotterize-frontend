@@ -1,0 +1,30 @@
+{
+  "name": "lottery-frontend",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@moralisweb3/common-evm-utils": "^2.12.0",
+    "@next/font": "13.1.2",
+    "@web3uikit/core": "^0.2.38",
+    "@web3uikit/icons": "^0.2.40",
+    "@web3uikit/web3": "^0.2.2",
+    "bootstrap": "5.2.3",
+    "ethers": "^5.7.2",
+    "font-awesome": "^4.7.0",
+    "moralis": "^2.12.0",
+    "moralis-v1": "^1.12.0",
+    "next": "13.1.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-moralis": "^1.4.2"
+  },
+  "devDependencies": {
+    "prettier": "^2.8.3"
+  }
+}
