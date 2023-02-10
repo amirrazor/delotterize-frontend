@@ -1,6 +1,34 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Decentralized Lottery - Frontend
+
+## Introduction
+
+Welcome to the frontend of the "Decentralized Lottery" project, a decentralized platform that allows users to participate in a lottery using smart contracts. The frontend is built using Next.js, a popular React-based framework for building server-side rendered applications, along with Moralis for communicating with the smart contract on the blockchain, Web3uikit for connecting users with their crypto wallet, JavaScript, and Bootstrap for styling.
+
+The platform is designed to provide many advantages over traditional centralized lottery platforms, thanks to its decentralized nature. The demo of the platform can be accessed at "https://delotterize.de", and the smart contract is live on the Goerli test network, using test money only. The project is for test purposes only and does not use any real money, and nobody profits from this project.
+
+If you're interested in learning more about the frontend of the "Decentralized Lottery" project, please take a look at the rest of the README file for more information on how to set up the project and start using it. Thank you for your interest!
+
+### Built With
+
+<a href="https://nextjs.org">Next.js</a> </br>
+<a href="https://reactjs.org">React</a>
+</br>
+<a href="https://moralis.io">Moralis</a>
+</br>
+<a href="https://docs.ethers.org">Ethers.js</a>
+</br>
+<a href="https://web3uikit.com/">Web3uikit</a>
 
 ## Getting Started
+
+### Prerequisites
+
+Run yarn to install all the necessary node modules first:
+  ```sh
+  yarn
+  ```
+  
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 First, run the development server:
 
